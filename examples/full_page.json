@@ -1,0 +1,72 @@
+{
+    "type":"!DOCTYPE html",
+    "content":[
+        {
+            "type":"html",
+            "content":[
+                {
+                    "type":"head",
+                    "content":[
+                        {
+                            "type":"meta",
+                            "content":[],
+                            "attributes":{
+                                "charset":"UTF-8"
+                            }
+                        },
+                        {
+                            "type":"title",
+                            "content":["Document"],
+                            "attributes":{}
+                        }
+                    ],
+                    "attributes":{}
+                },
+                {
+                    "type":"body",
+                    "content":[
+                        {
+                            "type":"h1",
+                            "content":["This is a header"],
+                            "attributes":{
+                                "class":"hello",
+                                "id":"qg"
+                            }
+                        },
+                        {
+                            "type":"p",
+                            "content":["This is a paragraph"],
+                            "attributes":{}
+                        },
+                        {
+                            "type":"div",
+                            "content":[
+                                {
+                                    "type":"p",
+                                    "content":["This is a paragraph inside a red div"],
+                                    "attributes":{}
+                                },
+                                {
+                                    "type":"img",
+                                    "content":[],
+                                    "attributes":{
+                                        "src":"https://files.codemania.net/example/images/example_dark.png",
+                                        "alt":"google logo"
+                                    }
+                                }
+                            ],
+                            "attributes":{
+                                "style":"background-color:red;"
+                            }
+                        }
+                    ],
+                    "attributes":{}
+                }
+            ],
+            "attributes":{
+                "lang":"en"
+            }
+        }
+    ],
+    "attributes":{}
+}

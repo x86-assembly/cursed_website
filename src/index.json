@@ -1,0 +1,22 @@
+{
+    "type": "div",
+    "content": [
+        {
+            "type": "h1",
+            "content": ["Welcome to My Website"]
+        },
+        {
+            "type": "p",
+            "content": ["This is a paragraph."]
+        },
+        {
+            "type": "img",
+            "content": [],
+            "attributes": {
+                "src": "files.codemania.net/example/images/example_dark.png",
+                "alt": "An image"
+            }
+        }
+    ],
+    "attributes": {}
+}
